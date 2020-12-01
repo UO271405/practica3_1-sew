@@ -6,20 +6,20 @@ body{
 }
 h1{
     text-align:center;
-    color:red;
+    color:black;
 }
 h2{
     text-align:center;
-    color:green;
+    color:black;
 }
 h3{
     text-align:center;
-    color:blue;
+    color:black;
 }
 h4{
     text-align:center;
     color:black;
 }
 p{
-    color:gray;
+    color:black;
 }
